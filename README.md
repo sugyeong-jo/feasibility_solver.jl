@@ -1,4 +1,4 @@
-# Juniper
+# Feasibility solver Dev! (based on Juniper)
 
 Release: [![Docs](https://img.shields.io/badge/docs-stable-blue.svg)](https://lanl-ansi.github.io/Juniper.jl/stable)
 
